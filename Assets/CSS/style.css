@@ -41,4 +41,27 @@ color: rgb(79, 97, 110);
 
 }
 
+.head {
+background-color: rgb(255, 255, 255);
+border-radius: 5px;
+border-width: 1px;
+box-shadow: black 0px 2px 9px 0px ;
+color: rgb(45, 57, 66);
+font-size: 20px;
+margin: 0 auto;
+max-width: 800px;
+padding: 30px 40px;
 
+}
+
+.header::after {
+content: " ";
+display: block;
+width: 100%;
+background:#ffffff;
+
+
+
+
+
+}
