@@ -19,5 +19,6 @@ As a user I will have to provide the project with a number bigger than 9  and le
 
 ![lol 2](https://user-images.githubusercontent.com/93087137/149708989-ec44c6a3-5015-49ba-b4cc-e0a79f134d83.png)
 
-<h3> Then recieve a great amount of passwords </h3>
+<h3> Then recieve your desired passwords </h3>
 
+![lol 3](https://user-images.githubusercontent.com/93087137/149709101-8ee64664-1302-4848-8ed1-c6b174ac9514.png)
