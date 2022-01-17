@@ -12,6 +12,12 @@ In the image below you can see the live project in its current state
 As a user I will have to provide the project with a number bigger than 9  and less that 128 characters and it will provide you with a multitude of different passwords.
 
 <h3> Pick a number between 8-128 characters </h3>
-![Capture](https://user-images.githubusercontent.com/93087137/149708113-1bafb4b2-6194-4ef6-a978-4ee99fe5788c.PNG)
-![Capture](https://user-images.githubusercontent.com/93087137/149708154-d94ca77e-a0b9-4357-a04a-934e9b933d1a.PNG)
-![Capture](https://user-images.githubusercontent.com/93087137/149708409-e788a774-561f-4bcb-8f71-4fb5aeb7f1ad.PNG)
+
+![Lol](https://user-images.githubusercontent.com/93087137/149708895-c8522a3b-ea7a-4a31-846e-b964586ee09b.png)
+
+<h3> Accept the conditions that are shown </h3>
+
+![lol 2](https://user-images.githubusercontent.com/93087137/149708989-ec44c6a3-5015-49ba-b4cc-e0a79f134d83.png)
+
+<h3> Then recieve a great amount of passwords </h3>
+
